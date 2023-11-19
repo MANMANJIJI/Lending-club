@@ -1,15 +1,11 @@
-# 🔥 Lending Club Project
-
-<br>
-<br>
 <p align="center"><img src="asset/header.png"></p>
 
+# 🔥 Lending Club Project
 ## 개요
 
 - 랜딩 클럽 고객 데이터를 회귀 분석한 후, 고객의 부도 확률을 예측하는 모델을 설계한다.
 - 설계한 모델을 바탕으로 대출 여부를 결정하는 적절한 전략을 기획한다.
 
-<br>
 
 ## 세부 내용
 
